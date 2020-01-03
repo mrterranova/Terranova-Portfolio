@@ -8,6 +8,5 @@
     
 
 Work in progress:
-https://mrterranova.github.io/TPortfolio/
-
+https://mrterranova.github.io/Terranova-Portfolio/
 Still under construction...
