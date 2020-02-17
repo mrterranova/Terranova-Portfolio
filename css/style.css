@@ -302,6 +302,20 @@ font-weight: bold;
 #hand:hover {
     animation: bounce 1s;
 }
+#city {
+    margin: -20px 0 0 -25px;
+    max-width: 190px;
+}
+#city:hover {
+    animation: bounce 1s;
+}
+#ripleys {
+    margin-top: 30px;
+    max-width: 140px;
+}
+#ripleys:hover {
+    animation: bounce 1s;
+}
 
 #books:hover {
     animation: bounce 1s;
