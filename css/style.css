@@ -20,9 +20,6 @@ body, html {
     */
     background-attachment: fixed;
 }
-.contact-form {
-    margin-top: -50px;
-}
 
 .pimg1 {
     background-image: url(../images/img1.jpg);
@@ -402,7 +399,9 @@ font-weight: bold;
         }
 
 }
-
+.lang {
+    font-size: 12px;
+}
 @media only screen and (max-width: 646px){
     
     .artPort{

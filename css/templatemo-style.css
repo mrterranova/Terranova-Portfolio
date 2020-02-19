@@ -1294,3 +1294,19 @@ body.lb-disable-scrolling {
 .owl-carousel .owl-nav {
   display: none;
 }
+
+.technology-content {
+  background-color: white;
+  position: absolute;
+  margin: -300px 0 0 370px;
+}
+ul {
+  padding: 30px;
+}
+li {
+  padding: 5px;
+  font-family: cursive;
+}
+h5 {
+  text-align: center;
+}
