@@ -659,6 +659,9 @@ background-color: rgb(222, 181, 228);
 .contact-content .heading {
   padding-top: 35%;
 }
+.contact-form {
+  margin-top: -50px;
+}
 
 .contact-content .contact-form {
   background-color: #fff;
