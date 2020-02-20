@@ -1298,7 +1298,9 @@ body.lb-disable-scrolling {
 .technology-content {
   background-color: white;
   position: absolute;
-  margin: -400px 0 0 400px;
+
+  margin: -400px 0 0 450px;
+
 }
 ul {
   padding: 30px;
